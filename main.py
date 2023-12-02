@@ -12,4 +12,6 @@ def numeroPrimo():
                     break
                 else:
                     print('Este número é primo!')
+        else:
+            print('Não é possível calcular este número.')
 numeroPrimo()
